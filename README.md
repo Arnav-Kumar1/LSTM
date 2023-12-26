@@ -38,7 +38,7 @@ To run the project locally, follow these steps:
 ## Usage
 
 1. Open the `main.ipynb` notebook.
-2. Execute the code cells in sequence to load the data, preprocess it, build the LSTM model, train the model, and evaluate its performance.
+2. Execute the code cells in sequence to load the data, preprocess it, build the LSTM model, train the model ( already trained and commented this part of the code ), and evaluate its performance.
 3. Predict stock prices using the trained model.
 
 ## Results
