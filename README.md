@@ -21,7 +21,7 @@ The dataset used for this project consists of historical stock prices obtained f
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `https://github.com/Arnav-Kumar1/LSTM.git`
+1. Clone the repository: `https://github.com/Arnav-Kumar1/stock-price-prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Open and run the `main.ipynb` notebook in Jupyter or any compatible environment.
 
